@@ -6,9 +6,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="[![Screenshot-2023-12-21-212129.png](https://i.postimg.cc/zGTN64Yb/Screenshot-2023-12-21-212129.png)](https://postimg.cc/sMfbZ6Xs)" alt="project-screenshot" width="800" height="800/">
+<img src="https://i.postimg.cc/zGTN64Yb/Screenshot-2023-12-21-212129.png" alt="project-screenshot" width="800" height="800/">
 
-<img src="[![Screenshot-2023-12-21-211202.png](https://i.postimg.cc/3RRP8cVZ/Screenshot-2023-12-21-211202.png)](https://postimg.cc/bG76L3zG)" alt="project-screenshot" width="1100" height="800/">
+<img src="https://i.postimg.cc/3RRP8cVZ/Screenshot-2023-12-21-211202.png" alt="project-screenshot" width="1100" height="800/">
 
   
   
